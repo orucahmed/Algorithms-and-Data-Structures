@@ -1,0 +1,5 @@
+Vrijeme potrebno da se niz sortitra Radix sortom je :126 ms.
+Vrijeme potrebno da se niz sortitra Gomila sortom je :313 ms.
+Vrijeme potrebno da se niz sortitra ugradjenim sortom je :44 ms.
+Provjera da li je sve sortirano: 
+Da

@@ -1,0 +1,12 @@
+Vrijeme izvrsenja dodavanja el BinStabloMapa: 12 ms.
+Vrijeme izvrsenja dodavanja el NizMapa: 27 ms.
+Vrijeme izvrsenja dodavanja el HashMapa: 1956 ms.
+Random el BinStabloMapa: 998597238
+Vrijeme izvrsenja pristupa random el BinStabloMapa: 0 ms.
+Random el NizMapa: 998597238
+Vrijeme izvrsenja pristupa random el NizMapa: 1 ms.
+Random el HashMapa: 998597238
+Vrijeme izvrsenja pristupa random el HashMapa: 2 ms.
+Brisanje random el BinStabloMapa: 3 ms.
+Brisanje random el NizMapa: 1 ms.
+Brisanje random el HashMapa: 3 ms.

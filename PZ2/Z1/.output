@@ -1,0 +1,20 @@
+Test NizLista: 
+10000 9900 9950 2 1 22 0
+10000 9900 9950 1 2 9981 0
+Kraj testa!
+
+Test JednostrukaLista: 
+10000 9900 9950 2 1 22 0
+10000 9900 9950 1 2 9981 0
+Kraj testa!
+
+Test broj 3
+5 5 4
+Treba biti :5 5 4 
+Obratiti paznju na memorijske greske! Kraj testa!
+
+Test broj 15
+10
+Treba biti :5
+Kraj testa!
+
